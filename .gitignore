@@ -1,0 +1,28 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+.vs/
+*.csproj.user
+
+# Build outputs
+publish/
+out/
+
+# Logs
+*.log
+
+# Export files
+netscan_export.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
